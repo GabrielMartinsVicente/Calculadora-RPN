@@ -1,8 +1,8 @@
 # Calculadora-RPN
 # Calculadora aritmética capaz de realizar operações de adição, subtração, divisão e multiplicação com entrada de dados na sintaxe RPN
 
-#  (56+)      =  11
-#  (2(53+)*)  =  16
+#  (5 6 +)      =  11
+#  (2 (5 3 +)*)  =  16
 #  ((3 4 +)) (4 (1 1 +)/)*) = 14
 #  ((3.16 4 +)) (4.5 (1 1.98 +)/)*) = 10.81208053691275
 #  (4 2 2 /) = 1  OBS: operações com mais de dois operandos não funciona para este código
