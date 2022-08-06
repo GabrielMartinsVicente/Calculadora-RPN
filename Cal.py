@@ -10,9 +10,7 @@
 
 ''' Descrição de funcionamento:
 
-
-
-
+Para melhor entendimento do código foi comentado uma imagem, no qual, demonstra de forma simples como ocorre as operações
 
 '''
 
@@ -51,6 +49,7 @@ for i in range(len(operacao)):
 
         if(operacao[i] == ' '):
             if(numero != []):
+                # A função join junta cada srt do Array numero e atribui na variável n
                 n = "".join(numero)
                 pilha.append(n)
                 numero = []
