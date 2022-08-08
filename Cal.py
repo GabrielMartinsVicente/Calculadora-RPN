@@ -1,3 +1,4 @@
+# Nome: Gabriel Martins Vicente
 # Calculadora-RPN
 # Calculadora aritmética capaz de realizar operações de adição, subtração, divisão e multiplicação com entrada de dados na sintaxe RPN
 
